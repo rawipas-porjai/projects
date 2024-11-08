@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My website</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav>
+      <div class="container">
+        <div class="nav-con">
+          <div class="logo">
+            <a href="http://127.0.0.1:5501/index3.html">KEn</a>
+          </div>
+          <ul class="menu">
+            <li><a href="http://127.0.0.1:5501/index2.html">Profile</a></li>
+            <li><a href="http://127.0.0.1:5501/index3.html">goal</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <section class="topic">
+     
+        <div class="Mohamed-Salah-con">
+          <div class="Mohamed-Salah-info">
+            <h3> Mohamed Salah</h3>
+            <p>
+              เป็นการรวบรวมสถิติของ Mohamed Salah ที่ทำประตูและแอสซิสให้กับ liverpool ในรายการ premierleague ตั้งแต่ปี2017-2025 และทำประวัติสั้นๆ การย้ายทีม จุดเริ่มของการมาเล่นฟุตบอลของ Salah
+            </p>
+          </div>
+          <div class="Mohamed-Salah-img">
+          
+          <iframe width="800" height="400" src="https://www.youtube.com/embed/WEwuQ-IIZF4?si=r5ExkhkmKkBblQiV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </div>
+    </div>
+  </div>
+    </section>
+  
+<section class = "under"> 
+  <div class = "container1">
+    <div class = "profile">
+    <div class="blogitem1">
+      
+      <img src="https://cdn1.rousingthekop.com/uploads/4/2023/02/GettyImages-1247115608-1140x760.jpg"  width="500" height="400">
+      <h3>Profile</h3>
+      <p>มีชื่อ อายุ ส่วนสูง เชื่อ และการย้ายทีมต่างๆ</p>
+   <a href="http://127.0.0.1:5501/index2.html" class="blog-btn">Learm More</a>
+    </div>
+  
+      <div class = "goal">
+      <div class="blogitem2">
+        <img src="https://www.kingfut.com/wp-content/uploads/2023/01/mohamed-salah-wolves-lfc-070123.jpg" width="500" height="400">
+        <h3>Goal</h3>
+        <p>รวมการทำประตูและแอสซิสของ salah</p>
+     <a href="http://127.0.0.1:5501/index3.html" class="blog-btn">Learm More</a>
+      </div>
+      </div>
+  </div>
+
+      
+        <div class="ground">
+        <div class="info">
+        <h1>ข้อมูลจาก</h1>
+        
+        <a href="https://www.youtube.com/@LiverpoolFC"><img src="https://yt3.googleusercontent.com/XMb1CWW_li3OqjDsr6UyHdstbQBBP4wpFqfwBUC31M9Mi0R4pGXc4sQ3FfVzNK1xV-jb12BP=s160-c-k-c0x00ffffff-no-rj" ></a>
+        <a href="https://www.youtube.com/@TrueVisionsOfficial/videos"><img src="https://yt3.googleusercontent.com/UmC7nAE7qP_E3mGY_CbSDAKV7_KHiIYw4jUWPpuDTCPb4gZMR6Hgw0Eq6Aw4WaLzPaRFx5jc=s160-c-k-c0x00ffffff-no-rj" ></a>
+        <a href="https://en.wikipedia.org/wiki/Mohamed_Salah"><img src="https://pngimg.com/uploads/wikipedia/wikipedia_PNG10.png" width="200" height="170" ></a>
+        <a href="https://www.ballvar.com/mohamed-salah/">ประวัติ โมฮาเหม็ด ซาลาห์ ยอดกองหน้าทีมหงส์แดงลิเวอร์พูล</a>
+      </div>
+      </div> 
+    </section>
+      
+  
+  
+</body>
+</html>
+
+
